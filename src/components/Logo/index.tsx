@@ -2,7 +2,7 @@ import * as S from './styles'
 
 export type LogoProps = {
   color?: 'white' | 'gold'
-  size?: 'normal' | 'large'
+  size?: 'normal' | 'large' | 'small'
 }
 
 const Logo = ({ color = 'gold', size = 'normal' }: LogoProps) => (

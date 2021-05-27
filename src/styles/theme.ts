@@ -1,7 +1,8 @@
 export default {
   grid: {
     container: '130rem',
-    gutter: '3.2rem'
+    gutter: '3.2rem',
+    gutter2: '2.6rem'
   },
   border: {
     radius: '0.4rem'
@@ -25,17 +26,16 @@ export default {
   colors: {
     primary: '#D4AF37',
     secondary: '#37474f', //blue grey
+    gold: '#D4AF37',
     mainBg: '#e9e9e9',
     lightBg: '#F2F2F2',
     white: '#FAFAFA',
-    whiteFull: '#fff',
+    whiteFull: '#ffff',
     black: '#030517',
     lightGray: '#EAEAEA',
     gray: '#8F8F8F',
     darkGray: '#2E2F42',
-    red: '#FF6347',
-    gold: '#D4AF37'
-    // secondary: '#3CD3C1',
+    red: '#FF6347'
   },
   spacings: {
     xxsmall: '0.8rem',

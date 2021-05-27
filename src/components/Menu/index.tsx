@@ -30,8 +30,10 @@ const Menu = ({ username }: MenuProps) => {
 
       <MediaMatch greaterThan="medium">
         <S.MenuNav>
-          <S.MenuLink href="#">Home</S.MenuLink>
-          <S.MenuLink href="#">Pesquisar</S.MenuLink>
+          <S.MenuLink href="#">Bikes</S.MenuLink>
+          <S.MenuLink href="#">Componentes</S.MenuLink>
+          <S.MenuLink href="#">Acessórios</S.MenuLink>
+          <S.MenuLink href="#">Ventuário</S.MenuLink>
         </S.MenuNav>
       </MediaMatch>
 
